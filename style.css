@@ -1,0 +1,15 @@
+
+#button{
+    color: green;
+}
+#bean{
+    background-color: mediumseagreen;
+    line-height: 2;
+    margin: 0px;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+#status{
+    color: white;
+}
